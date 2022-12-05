@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "علی زمانی",
+      "userName": "aliii",
+      "avatar": "https://media.istockphoto.com/id/544358212/photo/happy-laughing-man.jpg?s=612x612&w=0&k=20&c=FwJw5gqpUX3A8jOdsnIqQmSOxptVcYqHzaBkz6bvtMA=",
+      "password": "$2a$10$3yAlvPvwD8YmlLa6Isdl2uWUaglBImJCkEPsrEQlbdMbM8TsfAW72",
+      "aboutMe": "برنامه نویس و توسعه دهنده طراحی سایت\nعلاقه مند به یادگیری تکنولوژی های برنامه نویسی\nکار به صورت فریلنسری و دور کاری تا الان",
+      "me": [
+        "من یک برنامه نویس هستم",
+        "من یک فول استک هستم",
+        "من یک مدرس برنامه نویسی هستم",
+        "من یک فریلنسر هستم"
+      ],
+      "isAdmin": true,
+      "isShowResume": true,
+      "isDelete": false
+    }
+  ],
+  "contacts": [
+    {
+      "userId": 1,
+      "address": "خراسان رضوی ، مشهد",
+      "email": "test@gmail.com",
+      "mobile": "09154005060",
+      "id": 1
+    }
+  ],
+  "personals": [
+    {
+      "userId": 1,
+      "birthDay": "2001-11-22T16:06:32.000Z",
+      "gender": "آقا",
+      "maritalStatus": "مجرد",
+      "serviceStatus": "معافیت تحصیلی",
+      "id": 1
+    }
+  ],
+  "jobs": [
+    {
+      "userId": 1,
+      "EmploymentStatus": "اکنون به دنبال کار نیستم",
+      "JobType": "تمام وقت",
+      "EmploymentCities": [
+        "مشهد",
+        "اصفهان",
+        "تهران",
+        "شیراز"
+      ],
+      "id": 1
+    }
+  ],
+  "links": [
+    {
+      "userId": 1,
+      "stackOverflow": "",
+      "gitHub": "",
+      "gitLab": "",
+      "linkdein": "",
+      "id": 1
+    }
+  ],
+  "workExperiences": [
+    {
+      "userId": 1,
+      "jobTitle": "توسعه دهنده جنگو",
+      "companyName": "اسنپ-تهران",
+      "companyPhoto": "",
+      "jobDescription": "چیزی که توی اسنپ باید انجام میدادیم هندل کردن حجم زیادی از کاربرها برای استفاده از سیستم و api های اسنپ بود",
+      "startDate": "2022-11-22T17:18:31.000Z",
+      "endDate": "",
+      "jobTags": [
+        "python",
+        "django",
+        "react",
+        "docker"
+      ],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "jobTitle": "تحلیل گر داده",
+      "companyName": "ترب-تهران",
+      "companyPhoto": "",
+      "jobDescription": "توی ترب باید روی داده هایی که از طرف شرکت ها و جستجوی کاربران بود کار میکردیم تا بتوانیم محصولات را بهتر به کاربرها نشون بدیم",
+      "startDate": "2019-12-04T17:21:45.000Z",
+      "endDate": "2022-11-22T17:22:08.000Z",
+      "jobTags": [
+        "weka",
+        "solver",
+        "gephi"
+      ],
+      "id": 2
+    }
+  ],
+  "skills": [
+    {
+      "userId": 1,
+      "skillTitle": "react",
+      "LevelProgress": 75,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "skillTitle": "Html",
+      "LevelProgress": 90,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "skillTitle": "Css",
+      "LevelProgress": 80,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "skillTitle": "Javascript",
+      "LevelProgress": 65,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "skillTitle": "python",
+      "LevelProgress": 60,
+      "id": 5
+    }
+  ],
+  "certificates": [
+    {
+      "userId": 1,
+      "certificateTitle": "جامپ بک اند با جنگو",
+      "nameOfInstitution": "کوئرا",
+      "certificateDescription": "لورم ایپسورم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "certificateLink": "https://www.google.com",
+      "startDate": "2022-11-22T17:27:19.000Z",
+      "endDate": "",
+      "certificateTags": [
+        "python",
+        "django"
+      ],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "certificateTitle": "آموزش عملی Git",
+      "nameOfInstitution": "کوئرا",
+      "certificateDescription": "لورم ایپسورم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "certificateLink": "https://www.google.com",
+      "startDate": "2021-12-04T17:28:55.000Z",
+      "endDate": "2026-11-25T17:28:55.000Z",
+      "certificateTags": [
+        "git",
+        "github",
+        "gitlab",
+        "github desktop"
+      ],
+      "id": 2
+    }
+  ],
+  "educations": [
+    {
+      "userId": 1,
+      "educationTitle": "مهندسی کامپیوتر-نرم افزار",
+      "nameOfInstitution": "کارشناسی ارشد-دانشگاه شریف",
+      "educationDescription": "کار روی متدلوژی های توسعه نرم افزار کاری بود که در دوران ارشد انجام دادیم",
+      "average": "18",
+      "startDate": "2011-12-04T17:23:49.000Z",
+      "endDate": "2015-12-04T17:23:49.000Z",
+      "id": 1
+    }
+  ],
+  "projects": [
+    {
+      "userId": 1,
+      "projectTitle": "پروژه تستی",
+      "projectLink": "https://www.google.com",
+      "projectDate": "2022-11-22T16:22:51.000Z",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "projectTitle": "پروژه تستی 2",
+      "projectLink": "https://www.google.com",
+      "projectDate": "2022-11-25T16:23:09.000Z",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "projectTitle": "پروژه تستی 3",
+      "projectLink": "https://www.google.com",
+      "projectDate": "2022-01-28T16:23:22.000Z",
+      "id": 3
+    }
+  ],
+  "softSkills": [
+    {
+      "userId": 1,
+      "skillTitle": "روابط عمومی",
+      "skillLevel": 4,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "skillTitle": "مهارت در ارائه",
+      "skillLevel": 3,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "skillTitle": "زبان بدن",
+      "skillLevel": 4,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "skillTitle": "مدیریت تیم",
+      "skillLevel": 3,
+      "id": 5
+    }
+  ],
+  "languages": [
+    {
+      "userId": 1,
+      "languageTitle": "انگلیسی",
+      "languageLevel": 3,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "languageTitle": "فارسی",
+      "languageLevel": 4,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "languageTitle": "عربی",
+      "languageLevel": 2,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "languageTitle": "اسپانیایی",
+      "languageLevel": 1,
+      "id": 4
+    }
+  ]
+}
